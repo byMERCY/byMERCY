@@ -27,11 +27,6 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=byMERCY&show_icons=true&hide_border=true&border_radius=12&bg_color=2B3AF5&title_color=FFE14D&text_color=FFFFFF&icon_color=FF5FA8" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byMERCY&layout=compact&hide_border=true&border_radius=12&bg_color=2B3AF5&title_color=FFE14D&text_color=FFFFFF" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=byMERCY&hide_border=true&border_radius=12&background=2B3AF5&ring=FFE14D&fire=FF5FA8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFE14D&sideLabels=FFFFFF&dates=C9CEFF&stroke=FFFFFF40" alt="Streak"/>
 </p>
 

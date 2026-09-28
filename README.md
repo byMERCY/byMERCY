@@ -13,11 +13,11 @@
 
 ## About me
 
-- 👋 My name is **Andrey**, online I go by **MERCY**
-- 🎓 Applied Informatics student at **Bauman Moscow State Technical University (BMSTU)**
-- 🛠️ Writing code in **Python**, **C/C++** and **C#**
-- 💻 Working in **PyCharm**, **Qt Creator**, **Visual Studio** and **VS Code**
-<!-- ✏️ Add a couple of lines about yourself here -->
+- My name is **Andrey**, online I go by **MERCY**
+- Applied Informatics student at **Bauman Moscow State Technical University (BMSTU)**
+- Writing code in **Python**, **C/C++** and **C#**
+- Working in **PyCharm**, **Qt Creator**, **Visual Studio** and **VS Code**
+<!-- Add a couple of lines about yourself here -->
 
 ## Tech stack
 
@@ -48,11 +48,11 @@
 
 Привет! Я **MERCY**, а вообще меня зовут **Андрей**. Учусь в **МГТУ им. Н. Э. Баумана** на направлении «Прикладная информатика».
 
-- 🛠️ Пишу на **Python**, **C/C++** и **C#**
-- 💻 Работаю в **PyCharm**, **Qt Creator**, **Visual Studio** и **VS Code**
-- 🌐 Сайт-визитка: [bymercy.github.io](https://bymercy.github.io)
-- ✈️ Telegram: [@Mersialll](https://t.me/Mersialll)
-<!-- ✏️ Здесь можно написать пару строк о себе -->
+- Пишу на **Python**, **C/C++** и **C#**
+- Работаю в **PyCharm**, **Qt Creator**, **Visual Studio** и **VS Code**
+- Сайт-визитка: [bymercy.github.io](https://bymercy.github.io)
+- Telegram: [@Mersialll](https://t.me/Mersialll)
+<!-- Здесь можно написать пару строк о себе -->
 
 </details>
 

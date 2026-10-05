@@ -30,7 +30,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=byMERCY&hide_border=true&border_radius=12&background=2B3AF5&ring=FFE14D&fire=FF5FA8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFE14D&sideLabels=FFFFFF&dates=C9CEFF&stroke=FFFFFF40" alt="Streak"/>
+  <img src="https://raw.githubusercontent.com/byMERCY/byMERCY/output/stats.svg" alt="Contribution stats"/>
 </p>
 
 <p align="center">

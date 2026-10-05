@@ -1,4 +1,4 @@
-name: Generate snake
+name: Generate snake and stats
 
 on:
   schedule:
@@ -15,12 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#FF5FA8&color_dots=#ebedf0,#c9ceff,#8f99ff,#4f5cf7,#2b3af5
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFE14D
+
+      - name: Render stats card
+        run: node .github/scripts/stats.mjs dist/stats.svg
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

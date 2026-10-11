@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Total contributions 57, current streak 0, longest streak 4">
+  <rect width="495" height="195" rx="12" fill="#2B3AF5"/>
+  <line x1="165" y1="40" x2="165" y2="155" stroke="#FFFFFF" stroke-opacity=".25"/>
+  <line x1="330" y1="40" x2="330" y2="155" stroke="#FFFFFF" stroke-opacity=".25"/>
+  
+  <g transform="translate(82.5, 0)" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+    <text y="92" font-size="30" font-weight="700" fill="#FFFFFF">57</text>
+    <text y="128" font-size="14" font-weight="700" fill="#FFFFFF">Total Contributions</text>
+    <text y="150" font-size="12" fill="#C9CEFF">Oct 21, 2024 – Present</text>
+  </g>
+  <circle cx="247.5" cy="82" r="38" fill="none" stroke="#FFE14D" stroke-width="5"/>
+  <path d="M247.5 30c-5 6-9 10-9 15a9 9 0 0 0 18 0c0-5-4-9-9-15z" fill="#FF5FA8" stroke="#2B3AF5" stroke-width="3"/>
+  <g text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+    <text x="247.5" y="93" font-size="30" font-weight="700" fill="#FFFFFF">0</text>
+    <text x="247.5" y="146" font-size="14" font-weight="700" fill="#FFE14D">Current Streak</text>
+    <text x="247.5" y="168" font-size="12" fill="#C9CEFF">No streak yet</text>
+  </g>
+  
+  <g transform="translate(412.5, 0)" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif">
+    <text y="92" font-size="30" font-weight="700" fill="#FFFFFF">4</text>
+    <text y="128" font-size="14" font-weight="700" fill="#FFFFFF">Longest Streak</text>
+    <text y="150" font-size="12" fill="#C9CEFF">Oct 5, 2026 – Oct 8, 2026</text>
+  </g>
+</svg>
